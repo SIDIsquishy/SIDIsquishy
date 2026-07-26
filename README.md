@@ -6,4 +6,4 @@
 
 
 
-$${\color{#4BDAF1}collinandre\ art\ cred\ 2\ @GRV87\ on\ twt}$$
+$${\color{#4BDAF1}collinandre\ art\ cred\ 2\ @GRV87\ on\ twt\ &\ a1p1\ by\ @sastyanomik\}$$
