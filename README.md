@@ -1,4 +1,5 @@
-## wip
+<img width="872" height="872" alt="Untitled99_20260726033043" src="https://github.com/user-attachments/assets/d5a3c4fd-e3e1-462f-80c7-3d659bbf8089" />
+
 
 <!--
 **SIDIsquishy/SIDIsquishy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
