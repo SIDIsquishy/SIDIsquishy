@@ -4,4 +4,4 @@
 
 
 
-$${\color{teal}lala alala ala}$$
+$${\color{#4BDAF1}lala alala ala}$$
