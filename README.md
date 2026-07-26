@@ -3,4 +3,4 @@
 
 
 
-$${/color{teal}lala alala ala}$$
+$${\color{teal}lala alala ala}$$
