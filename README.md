@@ -1,4 +1,4 @@
-<img width="1280" height="719" alt="Untitled101_20260726142934" src="https://github.com/user-attachments/assets/b49be770-5039-4480-a28b-8abf9aca140b" />
+<img width="100" height="56" alt="Untitled101_20260726142934" src="https://github.com/user-attachments/assets/b49be770-5039-4480-a28b-8abf9aca140b" />
 
 $${\color{#4BDAF1}128√e980\}$$
 <p align="center">
